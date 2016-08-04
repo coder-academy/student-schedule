@@ -53,5 +53,5 @@ The customer details are saved to a file.
 
 <hr>
 ### Learning Resources
-[resource](http://www.techotopia.com/index.php/Working_with_Files_in_Ruby) <br>
+[Working with Files in Ruby](http://www.techotopia.com/index.php/Working_with_Files_in_Ruby) <br>
 [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
