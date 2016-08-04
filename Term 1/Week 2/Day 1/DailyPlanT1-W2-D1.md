@@ -18,8 +18,8 @@ Create your own class object <br>
 
 <hr>
 ### Learning Resources
-[Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)
-[Ruby Koans](http://rubykoans.com/)
+[Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
+[Ruby Koans](http://rubykoans.com/) <br>
 
 ####Instructions:
 Download Ruby Koans from the website or [here](rubykoans.zip) <br>
