@@ -22,10 +22,10 @@ Create your own class object <br>
 [Ruby Koans](http://rubykoans.com/) <br>
 
 ####Instructions:
-1. Download Ruby Koans from the website or [here](rubykoans.zip) 
-2. Open ruby_koans folder in Atom/Sublime Text 
-3. From the ruby_koans directory, the terminal run: 
+1. Download Ruby Koans from the website or [here](rubykoans.zip)
+2. Open ruby_koans folder in Atom/Sublime Text
+3. From the ruby_koans directory, the terminal run:
 ...```
     ruby path_to_enlightenment.rb
-  ```
+  ``` <br>
 4. Follow instructions. It will tell you which file to edit (using Atom) and then run that file once you have completed editing that file.
