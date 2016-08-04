@@ -2,7 +2,7 @@
 # Coder Factory Academy
 #### Week 2 Wednesday Day 3
 
-#### Start: 9:30AM
+#### Start: 10:00AM
 #### Finish: 5:30PM
 <hr>
 ### Wednesday's Subject

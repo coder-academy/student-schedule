@@ -2,7 +2,7 @@
 # Coder Factory Academy
 #### Week 3 Friday Day 5
 
-#### Start: 9:30AM
+#### Start: 10:00AM
 #### Finish: 5:30PM
 <hr>
 ### Friday's Subject

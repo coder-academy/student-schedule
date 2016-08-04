@@ -2,17 +2,17 @@
 # Coder Factory Academy
 #### Week 3 Thursday Day 4
 
-#### Start: 9:30AM
+#### Start: 10:00AM
 #### Finish: 5:30PM
 <hr>
 ### Thursday's Subject
-
-
+Continue Bank App Project
 
 
 <hr>
 ### Thursday's Challenge
-
+Continue Bank App Project
 
 <hr>
 ### Learning Resources
+[Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
