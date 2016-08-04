@@ -6,15 +6,15 @@
 #### Finish: 5:30PM
 <hr>
 ### Monday's Subject
-Object-oriented programming (OOP) practice
-Introduction to Ruby Koans
+...Object-oriented programming (OOP) practice
+...Introduction to Ruby Koans
 
 
 <hr>
 ### Monday's Challenges
-Begin Ruby Koans
-Follow OOP examples
-Create your own class object
+...Begin Ruby Koans
+...Follow OOP examples
+...Create your own class object
 
 <hr>
 ### Learning Resources
