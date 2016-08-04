@@ -20,6 +20,7 @@ Create your own class object <br>
 ### Learning Resources
 [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
 [Ruby Koans](http://rubykoans.com/) <br>
+[Unit Test Gem](https://rubygems.org/gems/test-unit/versions/3.1.8)
 
 ####Instructions:
 1. Download Ruby Koans from the website or [here](rubykoans.zip)
