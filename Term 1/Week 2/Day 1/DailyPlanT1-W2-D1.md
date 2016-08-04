@@ -27,5 +27,5 @@ Create your own class object <br>
 3. From the ruby_koans directory, the terminal run:
 ...```
     ruby path_to_enlightenment.rb
-...  ```
+   ```
 4. Follow instructions. It will tell you which file to edit (using Atom) and then run that file once you have completed editing that file.
