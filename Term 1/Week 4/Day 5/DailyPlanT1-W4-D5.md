@@ -6,13 +6,13 @@
 #### Finish: 5:30PM
 <hr>
 ### Friday's Subject
-
-
-
+Brief on major project #1
+Setting project expectations.
 
 <hr>
 ### Friday's Challenge
-
+Start major project #1
 
 <hr>
 ### Learning Resources
+n/a
