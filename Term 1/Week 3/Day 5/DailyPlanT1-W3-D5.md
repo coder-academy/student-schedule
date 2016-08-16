@@ -6,13 +6,16 @@
 #### Finish: 5:30PM
 <hr>
 ### Friday's Subject
-
-
+Complete and present Bank App Project
+Create your own mood board.
 
 
 <hr>
 ### Friday's Challenge
-
+Present your Bank App Project.
+Create your own mood board.
 
 <hr>
 ### Learning Resources
+[Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
+[Ruby-lang](https://www.ruby-lang.org/en/)

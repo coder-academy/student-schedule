@@ -16,3 +16,4 @@ Continue Bank App Project
 <hr>
 ### Learning Resources
 [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/) <br>
+[Ruby-lang](https://www.ruby-lang.org/en/)
