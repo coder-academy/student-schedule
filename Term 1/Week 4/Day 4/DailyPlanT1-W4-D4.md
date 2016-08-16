@@ -12,10 +12,9 @@ Creating a developer/designer website style guide.
 
 <hr>
 ### Thursday's Challenge
+Design your own website guideline suitable for your personal website/portfolio.
 <hr>
-# Project Design Your Own Guideline
-
-## Task
+## Project Design Your Own Guideline
 Using the basic HTML tags below create your own theme/style guideline in CSS complete with hover, focus and any more you can thing of.
 
 #### Things to put in

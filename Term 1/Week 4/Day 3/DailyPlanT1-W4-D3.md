@@ -26,5 +26,5 @@ Design a wireframe for your website.
 
 [Animate CSS](https://daneden.github.io/animate.css/)
 
-#How to override a css class vs replacing the libraries code
+How to override a css class vs replacing the libraries code
 http://codepen.io/Ruegen/pen/PNOarp
