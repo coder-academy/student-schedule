@@ -39,6 +39,6 @@ Remember to comment each section of your code!!!
 
 <hr>
 ### Learning Resources
-[Atlassian Style Guide](https://design.atlassian.com/product/)
-[Material Design](https://material.google.com/)
+[Atlassian Style Guide](https://design.atlassian.com/product/) <br>
+[Material Design](https://material.google.com/) <br>
 [Apple Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
