@@ -6,13 +6,15 @@
 #### Finish: 5:30PM
 <hr>
 ### Friday's Subject
-
+Term 1 Project #1
 
 
 
 <hr>
 ### Friday's Challenge
+Term 1 Project #1
 
 
 <hr>
 ### Learning Resources
+n/a

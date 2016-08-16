@@ -12,7 +12,7 @@
 
 <hr>
 ### Wednesday's Challenge
-
+Install Latest Version of Ruby
 
 <hr>
 ### Learning Resources
