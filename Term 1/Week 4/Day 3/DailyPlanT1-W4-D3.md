@@ -18,17 +18,13 @@ Design a wireframe for your website.
 
 <hr>
 ### Learning Resources
-Twitter Bootstrap
-http://getbootstrap.com/css/
+[Twitter Bootstrap](http://getbootstrap.com/css/)
 
-Materialize CSS
-http://materializecss.com/
+[Materialize CSS](http://materializecss.com/)
 
-Zurb Foundation
-http://foundation.zurb.com/
+[Zurb Foundation](http://foundation.zurb.com/)
 
-Animate CSS
-https://daneden.github.io/animate.css/
+[Animate CSS](https://daneden.github.io/animate.css/)
 
 #How to override a css class vs replacing the libraries code
 http://codepen.io/Ruegen/pen/PNOarp

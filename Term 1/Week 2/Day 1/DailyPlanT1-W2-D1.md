@@ -8,7 +8,12 @@
 ### Monday's Subject
 Object-oriented programming (OOP) practice <br>
 Introduction to Ruby Koans <br>
-
+- You will learn more of what is possible with programming.
+- You will learn more about Ruby syntax.
+- You will understand how Ruby works.
+- You will see Test Driven Development in action.
+- You will become confident that you can solve problems.
+Even if you're an experienced programmer, you will find the Koans challenge rewarding.
 
 <hr>
 ### Monday's Challenges
