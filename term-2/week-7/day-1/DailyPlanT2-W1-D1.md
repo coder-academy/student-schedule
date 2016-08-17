@@ -15,9 +15,11 @@ See scaffold in action.
 <hr>
 ### Monday's Challenge
 Install Rails
+Setup rails app with Shield theme
 
 <hr>
 ### Learning Resources
+[Shield Theme](rails-bootstrap-theme/Shield.zip)
 [Rails Setup - Windows](https://github.com/TheCoderFactory/rails-setup-for-windows)
 [Rails Setup - Mac](https://github.com/TheCoderFactory/rails-setup-for-mac)
 [Rails Setup - Windows](https://github.com/coder-factory-academy/rails-setup-for-linux)
