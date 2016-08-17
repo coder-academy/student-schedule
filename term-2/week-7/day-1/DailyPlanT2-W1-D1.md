@@ -19,7 +19,7 @@ Setup rails app with Shield theme
 
 <hr>
 ### Learning Resources
-[Shield Theme](rails-bootstrap-theme/Shield.zip)
-[Rails Setup - Windows](https://github.com/TheCoderFactory/rails-setup-for-windows)
-[Rails Setup - Mac](https://github.com/TheCoderFactory/rails-setup-for-mac)
+[Shield Theme](rails-bootstrap-theme/Shield.zip) <br>
+[Rails Setup - Windows](https://github.com/TheCoderFactory/rails-setup-for-windows) <br>
+[Rails Setup - Mac](https://github.com/TheCoderFactory/rails-setup-for-mac) <br>
 [Rails Setup - Windows](https://github.com/coder-factory-academy/rails-setup-for-linux)
