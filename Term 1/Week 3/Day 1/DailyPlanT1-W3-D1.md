@@ -6,7 +6,7 @@
 #### Finish: 5:30PM
 <hr>
 ### Monday's Subject
-Pair Programming <br>
+Pair Programming & Software Quality <br>
 Build an app using Ruby
 
 
