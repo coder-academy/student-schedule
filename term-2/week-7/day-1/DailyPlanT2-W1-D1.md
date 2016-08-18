@@ -6,16 +6,16 @@
 #### Finish: 5:30PM
 <hr>
 ### Monday's Subject
-Present Term 1 Project
-Introduction to Ruby On Rails
-Basic template theme into a rails app.
-See scaffold in action.
+- Present Term 1 Project
+- Introduction to Ruby On Rails
+- Basic template theme into a rails app.
+- See scaffold in action.
 
 
 <hr>
 ### Monday's Challenge
-Install Rails
-Setup rails app with Shield theme
+- Install Rails
+- Setup rails app with Shield theme
 
 <hr>
 ### Learning Resources
