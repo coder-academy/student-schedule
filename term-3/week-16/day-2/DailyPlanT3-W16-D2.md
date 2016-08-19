@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 # Coder Factory Academy
-#### Week 5 Tuesday Day 22
+#### Week 16 Tuesday Day 17
 
 #### Start: 9:30AM
 #### Finish: 5:30PM

@@ -1,17 +1,17 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 # Coder Factory Academy
-#### Week 4 Monday Day 16
+#### Week 17 Wednesday Day 23
 
 #### Start: 9:30AM
 #### Finish: 5:30PM
 <hr>
-### Monday's Subject
+### Wednesday's Subject
 
 
 
 
 <hr>
-### Monday's Challenge
+### Wednesday's Challenge
 
 
 <hr>

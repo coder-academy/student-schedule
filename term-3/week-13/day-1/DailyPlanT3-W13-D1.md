@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 # Coder Factory Academy
-#### Week 1 Monday Day 1
+#### Week 13 Monday Day 1
 
 #### Start: 9:30AM
 #### Finish: 5:30PM

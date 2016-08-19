@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 # Coder Factory Academy
-#### Week 2 Thursday Day 9
+#### Week 14 Thursday Day 9
 
 #### Start: 9:30AM
 #### Finish: 5:30PM
