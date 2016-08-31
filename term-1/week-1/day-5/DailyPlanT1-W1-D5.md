@@ -1,5 +1,3 @@
-* Introduction to Object Oriented Programming (OOP) in Ruby
-* Models, methods and classes
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 # Coder Factory Academy
 #### Week 1 Friday Day 5
