@@ -67,55 +67,55 @@
 <table>
 <tr><th colspan="5">Week 7</th></tr>
 	<tr>
-		<td><a href="term-2/week-7/day-1/DailyPlanT2-W1-D1.md">Day 1</a></td>
-		<td><a href="term-2/week-7/day-2/DailyPlanT2-W1-D2.md">Day 2</a></td>
-		<td><a href="term-2/week-7/day-3/DailyPlanT2-W1-D3.md">Day 3</a></td>
-		<td><a href="term-2/week-7/day-4/DailyPlanT2-W1-D4.md">Day 4</a></td>
-		<td><a href="term-2/week-7/day-5/DailyPlanT2-W1-D5.md">Day 5</a></td>
+		<td><a href="term-2/week-7/day-1/DailyPlanT2-W7-D1.md">Day 1</a></td>
+		<td><a href="term-2/week-7/day-2/DailyPlanT2-W7-D2.md">Day 2</a></td>
+		<td><a href="term-2/week-7/day-3/DailyPlanT2-W7-D3.md">Day 3</a></td>
+		<td><a href="term-2/week-7/day-4/DailyPlanT2-W7-D4.md">Day 4</a></td>
+		<td><a href="term-2/week-7/day-5/DailyPlanT2-W7-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 8</th></tr>
 	<tr>
-		<td><a href="term-2/week-8/day-1/DailyPlanT2-W2-D1.md">Day 1</a></td>
-		<td><a href="term-2/week-8/day-2/DailyPlanT2-W2-D2.md">Day 2</a></td>
-		<td><a href="term-2/week-8/day-3/DailyPlanT2-W2-D3.md">Day 3</a></td>
-		<td><a href="term-2/week-8/day-4/DailyPlanT2-W2-D4.md">Day 4</a></td>
-		<td><a href="term-2/week-8/day-5/DailyPlanT2-W2-D5.md">Day 5</a></td>
+		<td><a href="term-2/week-8/day-1/DailyPlanT2-W8-D1.md">Day 1</a></td>
+		<td><a href="term-2/week-8/day-2/DailyPlanT2-W8-D2.md">Day 2</a></td>
+		<td><a href="term-2/week-8/day-3/DailyPlanT2-W8-D3.md">Day 3</a></td>
+		<td><a href="term-2/week-8/day-4/DailyPlanT2-W8-D4.md">Day 4</a></td>
+		<td><a href="term-2/week-8/day-5/DailyPlanT2-W8-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 9</th></tr>
 	<tr>
-		<td><a href="term-2/week-9/day-1/DailyPlanT2-W3-D1.md">Day 1</a></td>
-		<td><a href="term-2/week-9/day-2/DailyPlanT2-W3-D2.md">Day 2</a></td>
-		<td><a href="term-2/week-9/day-3/DailyPlanT2-W3-D3.md">Day 3</a></td>
-		<td><a href="term-2/week-9/day-4/DailyPlanT2-W3-D4.md">Day 4</a></td>
-		<td><a href="term-2/week-9/day-5/DailyPlanT2-W3-D5.md">Day 5</a></td>
+		<td><a href="term-2/week-9/day-1/DailyPlanT2-W9-D1.md">Day 1</a></td>
+		<td><a href="term-2/week-9/day-2/DailyPlanT2-W9-D2.md">Day 2</a></td>
+		<td><a href="term-2/week-9/day-3/DailyPlanT2-W9-D3.md">Day 3</a></td>
+		<td><a href="term-2/week-9/day-4/DailyPlanT2-W9-D4.md">Day 4</a></td>
+		<td><a href="term-2/week-9/day-5/DailyPlanT2-W9-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 10</th></tr>
 	<tr>
-		<td><a href="term-2/week-10/day-1/DailyPlanT2-W4-D1.md">Day 1</a></td>
-		<td><a href="term-2/week-10/day-2/DailyPlanT2-W4-D2.md">Day 2</a></td>
-		<td><a href="term-2/week-10/day-3/DailyPlanT2-W4-D3.md">Day 3</a></td>
-		<td><a href="term-2/week-10/day-4/DailyPlanT2-W4-D4.md">Day 4</a></td>
-		<td><a href="term-2/week-10/day-5/DailyPlanT2-W4-D5.md">Day 5</a></td>
+		<td><a href="term-2/week-10/day-1/DailyPlanT2-W10-D1.md">Day 1</a></td>
+		<td><a href="term-2/week-10/day-2/DailyPlanT2-W10-D2.md">Day 2</a></td>
+		<td><a href="term-2/week-10/day-3/DailyPlanT2-W10-D3.md">Day 3</a></td>
+		<td><a href="term-2/week-10/day-4/DailyPlanT2-W10-D4.md">Day 4</a></td>
+		<td><a href="term-2/week-10/day-5/DailyPlanT2-W10-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 11</th></tr>
 	<tr>
-		<td><a href="term-2/week-11/day-1/DailyPlanT2-W5-D1.md">Day 1</a></td>
-		<td><a href="term-2/week-11/day-2/DailyPlanT2-W5-D2.md">Day 2</a></td>
-		<td><a href="term-2/week-11/day-3/DailyPlanT2-W5-D3.md">Day 3</a></td>
-		<td><a href="term-2/week-11/day-4/DailyPlanT2-W5-D4.md">Day 4</a></td>
-		<td><a href="term-2/week-11/day-5/DailyPlanT2-W5-D5.md">Day 5</a></td>
+		<td><a href="term-2/week-11/day-1/DailyPlanT2-W11-D1.md">Day 1</a></td>
+		<td><a href="term-2/week-11/day-2/DailyPlanT2-W11-D2.md">Day 2</a></td>
+		<td><a href="term-2/week-11/day-3/DailyPlanT2-W11-D3.md">Day 3</a></td>
+		<td><a href="term-2/week-11/day-4/DailyPlanT2-W11-D4.md">Day 4</a></td>
+		<td><a href="term-2/week-11/day-5/DailyPlanT2-W11-D5.md">Day 5</a></td>
 </tr>
 </table>
 
