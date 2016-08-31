@@ -6,13 +6,17 @@
 #### Finish: 5:30PM
 <hr>
 ### Monday's Subject
+Orientation
+Get your picture taken
+Video interview
 
 
 
 
 <hr>
 ### Monday's Challenge
-
+Introduce yourself to everyone
 
 <hr>
 ### Learning Resources
+n/a
