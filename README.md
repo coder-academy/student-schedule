@@ -126,55 +126,55 @@
 <table>
 <tr><th colspan="5">Week 13</th></tr>
 	<tr>
-		<td><a href="term-3/week-13/day-1/DailyPlanT3-W1-D1.md">Day 1</a></td>
-		<td><a href="term-3/week-13/day-2/DailyPlanT3-W1-D2.md">Day 2</a></td>
-		<td><a href="term-3/week-13/day-3/DailyPlanT3-W1-D3.md">Day 3</a></td>
-		<td><a href="term-3/week-13/day-4/DailyPlanT3-W1-D4.md">Day 4</a></td>
-		<td><a href="term-3/week-13/day-5/DailyPlanT3-W1-D5.md">Day 5</a></td>
+		<td><a href="term-3/week-13/day-1/DailyPlanT3-W13-D1.md">Day 1</a></td>
+		<td><a href="term-3/week-13/day-2/DailyPlanT3-W13-D2.md">Day 2</a></td>
+		<td><a href="term-3/week-13/day-3/DailyPlanT3-W13-D3.md">Day 3</a></td>
+		<td><a href="term-3/week-13/day-4/DailyPlanT3-W13-D4.md">Day 4</a></td>
+		<td><a href="term-3/week-13/day-5/DailyPlanT3-W13-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 14</th></tr>
 	<tr>
-		<td><a href="term-3/week-14/day-1/DailyPlanT3-W2-D1.md">Day 1</a></td>
-		<td><a href="term-3/week-14/day-2/DailyPlanT3-W2-D2.md">Day 2</a></td>
-		<td><a href="term-3/week-14/day-3/DailyPlanT3-W2-D3.md">Day 3</a></td>
-		<td><a href="term-3/week-14/day-4/DailyPlanT3-W2-D4.md">Day 4</a></td>
-		<td><a href="term-3/week-14/day-5/DailyPlanT3-W2-D5.md">Day 5</a></td>
+		<td><a href="term-3/week-14/day-1/DailyPlanT3-W14-D1.md">Day 1</a></td>
+		<td><a href="term-3/week-14/day-2/DailyPlanT3-W14-D2.md">Day 2</a></td>
+		<td><a href="term-3/week-14/day-3/DailyPlanT3-W14-D3.md">Day 3</a></td>
+		<td><a href="term-3/week-14/day-4/DailyPlanT3-W14-D4.md">Day 4</a></td>
+		<td><a href="term-3/week-14/day-5/DailyPlanT3-W14-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 15</th></tr>
 	<tr>
-		<td><a href="term-3/week-15/day-1/DailyPlanT3-W3-D1.md">Day 1</a></td>
-		<td><a href="term-3/week-15/day-2/DailyPlanT3-W3-D2.md">Day 2</a></td>
-		<td><a href="term-3/week-15/day-3/DailyPlanT3-W3-D3.md">Day 3</a></td>
-		<td><a href="term-3/week-15/day-4/DailyPlanT3-W3-D4.md">Day 4</a></td>
-		<td><a href="term-3/week-15/day-5/DailyPlanT3-W3-D5.md">Day 5</a></td>
+		<td><a href="term-3/week-15/day-1/DailyPlanT3-W15-D1.md">Day 1</a></td>
+		<td><a href="term-3/week-15/day-2/DailyPlanT3-W15-D2.md">Day 2</a></td>
+		<td><a href="term-3/week-15/day-3/DailyPlanT3-W15-D3.md">Day 3</a></td>
+		<td><a href="term-3/week-15/day-4/DailyPlanT3-W15-D4.md">Day 4</a></td>
+		<td><a href="term-3/week-15/day-5/DailyPlanT3-W15-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 16</th></tr>
 	<tr>
-		<td><a href="term-3/week-16/day-1/DailyPlanT3-W4-D1.md">Day 1</a></td>
-		<td><a href="term-3/week-16/day-2/DailyPlanT3-W4-D2.md">Day 2</a></td>
-		<td><a href="term-3/week-16/day-3/DailyPlanT3-W4-D3.md">Day 3</a></td>
-		<td><a href="term-3/week-16/day-4/DailyPlanT3-W4-D4.md">Day 4</a></td>
-		<td><a href="term-3/week-16/day-5/DailyPlanT3-W4-D5.md">Day 5</a></td>
+		<td><a href="term-3/week-16/day-1/DailyPlanT3-W16-D1.md">Day 1</a></td>
+		<td><a href="term-3/week-16/day-2/DailyPlanT3-W16-D2.md">Day 2</a></td>
+		<td><a href="term-3/week-16/day-3/DailyPlanT3-W16-D3.md">Day 3</a></td>
+		<td><a href="term-3/week-16/day-4/DailyPlanT3-W16-D4.md">Day 4</a></td>
+		<td><a href="term-3/week-16/day-5/DailyPlanT3-W16-D5.md">Day 5</a></td>
 </tr>
 </table>
 
 <table>
 <tr><th colspan="5">Week 17</th></tr>
 	<tr>
-		<td><a href="term-3/week-17/day-1/DailyPlanT3-W5-D1.md">Day 1</a></td>
-		<td><a href="term-3/week-17/day-2/DailyPlanT3-W5-D2.md">Day 2</a></td>
-		<td><a href="term-3/week-17/day-3/DailyPlanT3-W5-D3.md">Day 3</a></td>
-		<td><a href="term-3/week-17/day-4/DailyPlanT3-W5-D4.md">Day 4</a></td>
-		<td><a href="term-3/week-17/day-5/DailyPlanT3-W5-D5.md">Day 5</a></td>
+		<td><a href="term-3/week-17/day-1/DailyPlanT3-W17-D1.md">Day 1</a></td>
+		<td><a href="term-3/week-17/day-2/DailyPlanT3-W17-D2.md">Day 2</a></td>
+		<td><a href="term-3/week-17/day-3/DailyPlanT3-W17-D3.md">Day 3</a></td>
+		<td><a href="term-3/week-17/day-4/DailyPlanT3-W17-D4.md">Day 4</a></td>
+		<td><a href="term-3/week-17/day-5/DailyPlanT3-W17-D5.md">Day 5</a></td>
 </tr>
 </table>
 
