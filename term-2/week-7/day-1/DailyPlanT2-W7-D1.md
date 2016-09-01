@@ -22,4 +22,4 @@
 [Shield Theme](rails-bootstrap-theme/Shield.zip) <br>
 [Rails Setup - Windows](https://github.com/TheCoderFactory/rails-setup-for-windows) <br>
 [Rails Setup - Mac](https://github.com/TheCoderFactory/rails-setup-for-mac) <br>
-[Rails Setup - Windows](https://github.com/coder-factory-academy/rails-setup-for-linux)
+[Rails Setup - Linux](https://github.com/coder-factory-academy/rails-setup-for-linux)
