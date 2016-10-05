@@ -19,7 +19,7 @@ Using the basic HTML tags below create your own theme/style guideline in CSS com
 
 #### Things to put in
 * 3 `<button>` elements (warning, good, normal)
-* `<navbar>` or `<div class="nav">` either as a horizontal or vertical navbar with drop downs.
+* `<nav>` either as a horizontal or vertical navbar with drop downs.
 * form with submit `<button>`, `<input>` (text, textarea), `<select>`, radio buttons, checkbox.
 * `<p>` paragraph style with font and 'lorem ipsum' inside them.
 * fonts
