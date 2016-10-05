@@ -18,9 +18,9 @@ Design your own website guideline suitable for your personal website/portfolio.
 Using the basic HTML tags below create your own theme/style guideline in CSS complete with hover, focus and any more you can thing of.
 
 #### Things to put in
-* 3 `<button>` elements (warning, good, normal)
+* 3 `<button>` elements (warning, success, normal)
 * `<nav>` either as a horizontal or vertical navbar with drop downs.
-* form with submit `<button>`, `<input>` (text, textarea), `<select>`, radio buttons, checkbox.
+* form with submit `<button>`, `<input>` (text, `<textarea>`), `<select>`, radio buttons, checkbox.
 * `<p>` paragraph style with font and 'lorem ipsum' inside them.
 * fonts
 * all headers styled
