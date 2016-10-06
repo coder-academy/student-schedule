@@ -39,7 +39,7 @@ Design your own website guideline suitable for your personal website/portfolio.
 
 ---
 
-[An Introduction to Animation in Web Design](https://designshack.net/articles/graphics/an-introduction-to-animation-in-web-design/)
+[An Introduction to Animation in Web Design](https://designshack.net/articles/graphics/an-introduction-to-animation-in-web-design/)  
 [W3 Schools Transform](http://www.w3schools.com/cssref/css3_pr_transform.asp)  
 [W3 Schools Animate](http://www.w3schools.com/css/css3_animations.asp)  
 [W3 Schools Gradients](http://www.w3schools.com/css/css3_gradients.asp)  
