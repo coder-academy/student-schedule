@@ -17,7 +17,7 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 2 — Object-Oriented Programming, Testing</th></tr>
+<tr><th colspan="5">Week 2 — Classes, Testing</th></tr>
 	<tr>
 		<td><a href="term-1/week-2/day-1/DailyPlanT1-W2-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-2/day-2/DailyPlanT1-W2-D2.md">Day 2</a></td>
