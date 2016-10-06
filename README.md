@@ -6,7 +6,7 @@
 <img src="term-1-calendar.jpg">
 
 <table>
-<tr><th colspan="5">Week 1</th></tr>
+<tr><th colspan="5">Week 1 — Ruby Intro</th></tr>
 	<tr>
 		<td><a href="term-1/week-1/day-1/DailyPlanT1-W1-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-1/day-2/DailyPlanT1-W1-D2.md">Day 2</a></td>
@@ -17,7 +17,7 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 2</th></tr>
+<tr><th colspan="5">Week 2 — Object-Oriented Programming, Testing</th></tr>
 	<tr>
 		<td><a href="term-1/week-2/day-1/DailyPlanT1-W2-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-2/day-2/DailyPlanT1-W2-D2.md">Day 2</a></td>
@@ -28,7 +28,7 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 3</th></tr>
+<tr><th colspan="5">Week 3 — Ruby App</th></tr>
 	<tr>
 		<td><a href="term-1/week-3/day-1/DailyPlanT1-W3-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-3/day-2/DailyPlanT1-W3-D2.md">Day 2</a></td>
@@ -39,7 +39,9 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 4</th></tr>
+<tr><th colspan="5">
+<a href="/term-1/week-4/Weekly-T1-W4.md">Week 4 — HTML &amp; CSS</a>
+</th></tr>
 	<tr>
 		<td><a href="term-1/week-4/day-1/DailyPlanT1-W4-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-4/day-2/DailyPlanT1-W4-D2.md">Day 2</a></td>
@@ -50,7 +52,7 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 5</th></tr>
+<tr><th colspan="5">Week 5 — Portfolio Website</th></tr>
 	<tr>
 		<td><a href="term-1/week-5/day-1/DailyPlanT1-W5-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-5/day-2/DailyPlanT1-W5-D2.md">Day 2</a></td>
