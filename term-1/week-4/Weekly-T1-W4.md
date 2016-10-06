@@ -32,9 +32,9 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [W3 Schools HTML](http://www.w3schools.com/html/)  
 [W3 Schools CSS](http://www.w3schools.com/css/)  
-[HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)
-[Absolute vs Relative Positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning)
-[HTML & CSS: design and build websites](http://wtf.tw/ref/duckett.pdf)
+[HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)  
+[Absolute vs Relative Positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning)  
+[HTML & CSS: design and build websites](http://wtf.tw/ref/duckett.pdf)  
 [Learn Enough HTML to be Dangerous](https://www.learnenough.com/html-tutorial#sec-html_intro)
 
 ---
@@ -54,14 +54,14 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Materialize CSS](http://materializecss.com/)  
 [Zurb Foundation](http://foundation.zurb.com/)  
 [Animate CSS](https://daneden.github.io/animate.css/)  
-[Google Free Fonts](https://fonts.google.com/)
-[Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)
+[Google Free Fonts](https://fonts.google.com/)  
+[Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)  
 [Why Cards are the Future of the Web](https://blog.intercom.com/why-cards-are-the-future-of-the-web/)
 
 ---
 
-[Atlassian Style Guide](https://design.atlassian.com/product/) <br>
-[Material Design](https://material.google.com/) <br>
+[Atlassian Style Guide](https://design.atlassian.com/product/)  
+[Material Design](https://material.google.com/)  
 [Apple Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 
 How to override a css class vs replacing the libraries code
