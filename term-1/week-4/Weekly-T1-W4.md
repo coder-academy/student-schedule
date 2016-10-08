@@ -56,6 +56,7 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Bulma](http://bulma.io/)  
 [Material Design Lite](https://getmdl.io/started/index.html)  
 [Materialize CSS](http://materializecss.com/)  
+[How to override a CSS class vs replacing the library’s code](http://codepen.io/Ruegen/pen/PNOarp)  
 [Animate CSS](https://daneden.github.io/animate.css/)  
 [Google Free Fonts](https://fonts.google.com/)  
 [Font Awesome](http://fontawesome.io/)  
@@ -71,9 +72,6 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Atlassian Style Guide](https://design.atlassian.com/product/)  
 [Material Design](https://material.google.com/)  
 [Apple Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
-
-How to override a css class vs replacing the libraries code
-http://codepen.io/Ruegen/pen/PNOarp
 
 
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
