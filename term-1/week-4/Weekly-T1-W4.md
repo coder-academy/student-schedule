@@ -58,7 +58,7 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Materialize CSS](http://materializecss.com/)  
 [Animate CSS](https://daneden.github.io/animate.css/)  
 [Google Free Fonts](https://fonts.google.com/)  
-[Programming Language and Dev Tool Icons](http://devicon.fr/)
+[Programming Language and Dev Tool Icons](http://devicon.fr/)  
 [Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)  
 [Smooth Scroll JavaScript](https://github.com/cferdinandi/smooth-scroll)  
 [Count Up Widget](http://www.tickcounter.com/countup)  
