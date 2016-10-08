@@ -34,8 +34,10 @@ Design your own website guideline suitable for your personal website/portfolio.
 [W3 Schools CSS](http://www.w3schools.com/css/)  
 [HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)  
 [Absolute vs Relative Positioning](https://codemyviews.com/blog/the-lowdown-on-absolute-vs-relative-positioning)  
+[CSS Floats and Clears Explained by DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)  
 [HTML & CSS: design and build websites](http://wtf.tw/ref/duckett.pdf)  
-[Learn Enough HTML to be Dangerous](https://www.learnenough.com/html-tutorial#sec-html_intro)
+[Learn Enough HTML to be Dangerous](https://www.learnenough.com/html-tutorial#sec-html_intro)  
+[Flexbox in 5 Minutes](http://flexboxin5.com/)  
 
 ---
 
@@ -46,8 +48,6 @@ Design your own website guideline suitable for your personal website/portfolio.
 [W3 Schools Media queries](http://www.w3schools.com/css/css3_mediaqueries.asp)  
 [W3 Schools Flexbox](http://www.w3schools.com/css/css3_flexbox.asp)  
 [W3 Schools Pseduo-Class](http://www.w3schools.com/css/css_pseudo_classes.asp)  
-[CSS Floats and Clears Explained by DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)  
-[Flexbox in 5 Minutes](http://flexboxin5.com/)  
 
 ---
 
@@ -58,6 +58,8 @@ Design your own website guideline suitable for your personal website/portfolio.
 [Materialize CSS](http://materializecss.com/)  
 [Animate CSS](https://daneden.github.io/animate.css/)  
 [Google Free Fonts](https://fonts.google.com/)  
+[Font Awesome](http://fontawesome.io/)  
+[Google Design Icons](https://design.google.com/icons/)  
 [Programming Language and Dev Tool Icons](http://devicon.fr/)  
 [Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)  
 [Smooth Scroll JavaScript](https://github.com/cferdinandi/smooth-scroll)  
