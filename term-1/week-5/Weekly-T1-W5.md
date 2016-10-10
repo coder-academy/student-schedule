@@ -7,4 +7,4 @@
 
 ## [Thursday — Deploying to GitHub Pages](/term-1/week-5/day-4/DailyPlanT1-W5-D4.md)
 
-## [Friday — Presentation]
+## Friday — Presenting your Portfolio website
