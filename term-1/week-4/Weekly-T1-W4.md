@@ -41,6 +41,17 @@ Design your own website guideline suitable for your personal website/portfolio.
 
 ---
 
+### Treehouse have a 7-day free trial
+
+https://teamtreehouse.com/library/css-layout-basics  
+https://teamtreehouse.com/library/css-layout-techniques  
+https://teamtreehouse.com/library/css-beyond-the-basics  
+https://teamtreehouse.com/library/responsive-layouts  
+https://teamtreehouse.com/library/css-flexbox-layout  
+https://teamtreehouse.com/library/bootstrap-4-basics  
+
+---
+
 [An Introduction to Animation in Web Design](https://designshack.net/articles/graphics/an-introduction-to-animation-in-web-design/)  
 [W3 Schools Transform](http://www.w3schools.com/cssref/css3_pr_transform.asp)  
 [W3 Schools Animate](http://www.w3schools.com/css/css3_animations.asp)  
