@@ -69,6 +69,7 @@ https://teamtreehouse.com/library/bootstrap-4-basics
 [Materialize CSS](http://materializecss.com/)  
 [How to override a CSS class vs replacing the library’s code](http://codepen.io/Ruegen/pen/PNOarp)  
 [Animate CSS](https://daneden.github.io/animate.css/)  
+[Hover.css](http://ianlunn.github.io/Hover/)  
 [Google Free Fonts](https://fonts.google.com/)  
 [Font Awesome](http://fontawesome.io/)  
 [Google Design Icons](https://design.google.com/icons/)  
