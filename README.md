@@ -54,7 +54,9 @@
 </table>
 
 <table>
-<tr><th colspan="5">Week 5 — Portfolio Website</th></tr>
+<tr><th colspan="5">
+<a href="/term-1/week-5/Weekly-T1-W5.md">Week 5 — Portfolio Website</a>
+</th></tr>
 	<tr>
 		<td><a href="term-1/week-5/day-1/DailyPlanT1-W5-D1.md">Day 1</a></td>
 		<td><a href="term-1/week-5/day-2/DailyPlanT1-W5-D2.md">Day 2</a></td>
