@@ -1,20 +1,23 @@
-<p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
-# Coder Factory Academy
 #### Week 5 Tuesday Day 2
 
-#### Start: 9:30AM
-#### Finish: 5:30PM
-<hr>
+---
+
 ### Tuesday's Subject
 Term 1 Project #1
 
+---
 
-
-<hr>
 ### Tuesday's Challenge
 Term 1 Project #1
 
+Add a favicon to your website.
 
-<hr>
+```
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+```
+
+---
+
 ### Learning Resources
-n/a
+
+http://www.favicomatic.com/
