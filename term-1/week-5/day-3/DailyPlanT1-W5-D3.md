@@ -9,9 +9,9 @@ Term 1 Project #1
 
 Add files and metatags to your portfolio website for search engine and social media optimisation.
 
-### robot.txt
+### robots.txt
 
-robot.txt file is to specify how you would like your site to be 
+robots.txt file is to specify how you would like your site to be 
 crawled, what pages should be found and indexed during the 
 crawl and what should not be.
 
