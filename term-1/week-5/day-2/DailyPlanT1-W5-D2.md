@@ -29,9 +29,10 @@ cd YOUR_WEBSITE_FOLDER
 php -S localhost:9000
 ```
 
+(On Windows, instead of PHP you could try out mongoose: http://stackoverflow.com/a/5119307 or tinyweb: http://ccm.net/faq/2568-tinyweb-server-on-windows)
+
 Visit `http://localhost:9000/` is your web browser
 
 This is a mini webserver, which lets you test it like on a real website.
 
 This allows you to use absolute paths for your favicon and CSS. e.g. `/favicon.ico` not `favicon.ico`, and always `/styles/main.css` not `styles/main.css` or `../styles/main.css` for a nested HTMl file.
-
