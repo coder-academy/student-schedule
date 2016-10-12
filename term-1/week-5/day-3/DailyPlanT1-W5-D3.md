@@ -89,16 +89,20 @@ Note: keywords meta tag is not worth it: https://webmasters.googleblog.com/2009/
 
 ## Learning Resources
 
+### Google Crawling
 - [Which robots Google uses to crawl the web](https://support.google.com/webmasters/answer/1061943?hl=en)
 - [Google — Controlling crawling and indexing](https://developers.google.com/webmasters/control-crawl-index/docs/getting_started?csw=1)
 - [Google — Learn about sitemaps](https://support.google.com/webmasters/answer/156184?authuser=1)
 
----
-
+### Meta Description Guides
 - https://yoast.com/meta-descriptions/
 - https://moz.com/learn/seo/meta-description
+
+### Open Graph
 - https://blog.kissmetrics.com/open-graph-meta-tags/
 - http://ogp.me/
+
+### Facebook’s Shared Link Debugging Tool
 - https://developers.facebook.com/tools/debug/
 
 ---
