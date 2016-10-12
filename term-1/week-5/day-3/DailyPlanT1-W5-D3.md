@@ -58,13 +58,13 @@ You can check your tags with a tool provided by Facebook here: https://developer
 <html>
   <head>
     <!-- Required for correct encoding for international character sets, or even emoji -->
-    
     <meta charset="utf-8">
+    
     <!-- Description displayed in a Google result -->
     <meta name="description" content="Portfolio">
     <!-- Who create this website, or wrote the content on the page -->
-    
     <meta name="author" content="Nandini Nayak">
+    
     <!-- Title as used when sharing your page on a social media network such as Facebook -->
     <meta property="og:title" content="Your eye-catching title here">
     <!-- The type of content on this page -->
