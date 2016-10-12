@@ -15,13 +15,20 @@ robots.txt file is to specify how you would like your site to be
 crawled, what pages should be found and indexed during the 
 crawl and what should not be.
 
-[Which robots Google uses to crawl the web](https://support.google.com/webmasters/answer/1061943?hl=en)
-[Google — Controlling crawling and indexing](https://developers.google.com/webmasters/control-crawl-index/docs/getting_started?csw=1)
+- [Which robots Google uses to crawl the web](https://support.google.com/webmasters/answer/1061943?hl=en)
+- [Google — Controlling crawling and indexing](https://developers.google.com/webmasters/control-crawl-index/docs/getting_started?csw=1)
 
 Some examples:
 
 - http://www.abc.net.au/robots.txt
 - https://www.commbank.com.au/robots.txt
+
+```
+User-agent: *
+Disallow:
+
+Sitemap: https://YOUR_GITHUB_USERNAME.github.io/sitemap.xml
+```
 
 ### Sitemaps
 
@@ -38,7 +45,23 @@ the site.
 Examples:
 
 - http://abr.business.gov.au/sitemap.xml
-- http://www.smh.com.au/sitemap
+- http://www.smh.com.au/sitemap.xml
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xhtml="http://www.w3.org/1999/xhtml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://YOUR_GITHUB_USERNAME.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://YOUR_GITHUB_USERNAME.github.io/ANY_OTHER_PAGES_YOU_HAVE_AND_REPEAT/</loc>
+  </url>
+</urlset>
+```
 
 ### Meta tags & Social network sharing
 
@@ -59,11 +82,13 @@ You can check your tags with a tool provided by Facebook here: https://developer
   <head>
     <!-- Required for correct encoding for international character sets, or even emoji -->
     <meta charset="utf-8">
+    <!-- Make your website actual size on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- Description displayed in a Google result -->
-    <meta name="description" content="Portfolio">
+    <!-- Description displayed in a Google result, maximum 135 to 150 characters -->
+    <meta name="description" content="YOUR NAME is a junior web developer specialising in Ruby on Rails and the MEAN Stack">
     <!-- Who create this website, or wrote the content on the page -->
-    <meta name="author" content="Nandini Nayak">
+    <meta name="author" content="WRITE YOUR NAME">
     
     <!-- Title as used when sharing your page on a social media network such as Facebook -->
     <meta property="og:title" content="Your eye-catching title here">
@@ -72,10 +97,8 @@ You can check your tags with a tool provided by Facebook here: https://developer
     <!-- Description for social media -->
     <meta property="og:description" content="Your entertaining and descriptive copy here, if your meta description is good, use it.">
     <!-- Hero image for social media -->
-    <meta property="og:image" content="http://www.yourdomain.com/image-name.jpg" >
+    <meta property="og:image" content="http://www.YOUR_WEBSITE.com/image-name.jpg" >
     
-    <!-- Make your website actual size on mobile devices -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- The traditional title, still useful for users and for Google -->
     <title>Welcome to my great page</title>
   </head>
