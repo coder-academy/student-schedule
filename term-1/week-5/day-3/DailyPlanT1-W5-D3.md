@@ -104,6 +104,7 @@ Note: keywords meta tag is not worth it: https://webmasters.googleblog.com/2009/
 
 ### Facebook’s Shared Link Debugging Tool
 - https://developers.facebook.com/tools/debug/
+- Pro tip: create a work-specific Facebook account, separated from your personal one
 
 ---
 
