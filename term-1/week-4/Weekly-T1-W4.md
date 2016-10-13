@@ -77,7 +77,8 @@ https://teamtreehouse.com/library/bootstrap-4-basics
 [Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)  
 [Smooth Scroll JavaScript](https://github.com/cferdinandi/smooth-scroll)  
 [Count Up Widget](http://www.tickcounter.com/countup)  
-[Why Cards are the Future of the Web](https://blog.intercom.com/why-cards-are-the-future-of-the-web/)
+[Why Cards are the Future of the Web](https://blog.intercom.com/why-cards-are-the-future-of-the-web/)  
+[Centering `a.button`](http://jsfiddle.net/2gMQ9/8/)
 
 ---
 
