@@ -79,6 +79,7 @@ Design your own website guideline suitable for your personal website/portfolio.
 - [Google Design Icons](https://design.google.com/icons/)  
 - [Programming Language and Dev Tool Icons](http://devicon.fr/)  
 - [Google Colour Palettes](https://material.google.com/style/color.html#color-color-palette)  
+- [Adobe Color Palettes](https://color.adobe.com/explore/)
 - [Smooth Scroll JavaScript](https://github.com/cferdinandi/smooth-scroll)  
 - [Count Up Widget](http://www.tickcounter.com/countup)  
 - [Why Cards are the Future of the Web](https://blog.intercom.com/why-cards-are-the-future-of-the-web/)  
