@@ -16,8 +16,8 @@ Continue through Eloquent JS
 
 <hr>
 ### Learning Resources
-Eloquent JS <br>
-http://eloquentjavascript.net/
 
-Mozilla JavaScript Documentation <br>
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Eloquent JS http://eloquentjavascript.net/
+- [JavaScript Event: Text Mirror](http://codepen.io/burntcaramel/pen/YGJXAb)
+- [JavaScript AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
+- [Mozilla JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
