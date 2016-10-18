@@ -1,7 +1,16 @@
 ### Tuesday's Subject
-Using JavaScript event listeners.
 
-Creating JavaScript objects - modifying, making copies, prototypal inheritance.
+- Using JavaScript event listeners.
+- Callbacks
+- Promises
+- Creating JavaScript objects - modifying, making copies
+
+---
+
+### Examples
+
+- [JavaScript Event: Text Mirror](http://codepen.io/burntcaramel/pen/YGJXAb)
+- [JavaScript AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
 
 ---
 
@@ -9,11 +18,6 @@ Creating JavaScript objects - modifying, making copies, prototypal inheritance.
 Create a object instance in JavaScript and have 100 duplicates of it in the browser as a graphic.
 
 Continue through Eloquent JS
-
-### Examples
-
-- [JavaScript Event: Text Mirror](http://codepen.io/burntcaramel/pen/YGJXAb)
-- [JavaScript AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
 
 ---
 
