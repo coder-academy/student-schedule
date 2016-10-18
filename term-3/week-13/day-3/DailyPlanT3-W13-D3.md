@@ -13,12 +13,13 @@ Have 3 different console in your code.
 ### Examples
 
 - [JavaScript Event: Text Mirror](http://codepen.io/burntcaramel/pen/YGJXAb)
-- [JavaScript AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
+- [JavaScript Vanilla AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
+- [JavaScript Fetch + jQuery: Recipe Finder](http://codepen.io/burntcaramel/pen/ORBrrw)
 
 <hr>
 ### Learning Resources
 jQuery documentation <br>
 http://api.jquery.com/
 
-Console.log() Documentation <br>
+console.log() Documentation <br>
 https://developer.mozilla.org/en-US/docs/Web/API/Console
