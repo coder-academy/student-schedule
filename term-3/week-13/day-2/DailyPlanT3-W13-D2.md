@@ -9,6 +9,7 @@
 
 ### Examples
 
+- [Read the post](http://codepen.io/burntcaramel/post/dom-events-and-promises)
 - [JavaScript Event: Text Mirror](http://codepen.io/burntcaramel/pen/YGJXAb)
 - [JavaScript AJAX: Recipe Finder](http://codepen.io/burntcaramel/pen/kkAWwG)
 
