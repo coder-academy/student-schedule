@@ -16,6 +16,9 @@ Create an app that has a middleware in a route, have a test on that route.
 
 <hr>
 ### Learning Resources
+Express Generator <br>
+http://expressjs.com/en/starter/generator.html
+
 Express Middleware <br>
 http://expressjs.com/en/guide/using-middleware.html
 

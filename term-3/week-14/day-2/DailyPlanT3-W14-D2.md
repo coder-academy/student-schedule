@@ -6,7 +6,8 @@
 #### Finish: 5:30PM
 <hr>
 ### Tuesday's Subject
-Passport and Express authentication.
+Making an express app with routes, custom middleware and setting up config.
+<!-- Passport and Express authentication. -->
 
 <hr>
 ### Tuesday's Challenge

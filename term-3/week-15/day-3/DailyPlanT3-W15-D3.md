@@ -6,14 +6,25 @@
 #### Finish: 5:30PM
 <hr>
 ### Wednesday's Subject
-Introduction to Angular Directives.
+JavaScript Libraries, Universal Router (for React)
+<!-- Introduction to Angular Directives. -->
 
 
 <hr>
 ### Wednesday's Challenge
-Integrate a page as a directive into your Angular App.
+Create a React app with 5 routes using Universal Router.
+<!-- Integrate a page as a directive into your Angular App. -->
 
 <hr>
 ### Learning Resources
-Angular Directives <br>
-https://docs.angularjs.org/guide/directive
+ReactJS
+https://facebook.github.io/react/
+
+TypeStyle
+https://github.com/typestyle/typestyle
+
+React App generator
+https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+
+<!-- Angular Directives <br>
+https://docs.angularjs.org/guide/directive -->

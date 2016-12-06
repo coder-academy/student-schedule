@@ -6,13 +6,18 @@
 #### Finish: 5:30PM
 <hr>
 ### Wednesday's Subject
-Express generator, generator flags & recommended app layout.
+Introduction to MongoDB and how document databases (noSQL) differ from SQL databases.<!-- Express generator, generator flags & recommended app layout. -->
 
 <hr>
 ### Wednesday's Challenge
-Make a simple app using the generator.
+Install and insert, update and remove data from MonogoDB locally using only the mongo shell.<!-- Make a simple app using the generator. -->
 
 <hr>
 ### Learning Resources
-Express Generator <br>
-http://expressjs.com/en/starter/generator.html
+
+MonogoDB setup and exercise <br>
+https://github.com/Ruegen/mongodb-setup
+
+
+MonogoDB Documentation <br>
+https://docs.mongodb.com/

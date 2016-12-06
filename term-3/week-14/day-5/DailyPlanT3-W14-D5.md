@@ -6,19 +6,21 @@
 #### Finish: 5:30PM
 <hr>
 ### Friday's Subject
-Introduction to YEOMAN, MEAN stack & Angular (and why).
+Server vs Client App
+Authentication
+Authorisation
+PassportJS & JWTs
 
 <hr>
 ### Friday's Challenge
-Using the Yeoman generator, generate a MEAN stack app
-
+Create an app with authentication using JWTs
 <hr>
 ### Learning Resources
-Yeoman <br>
-http://yeoman.io/codelab/index.html
+PassportJS
+http://passportjs.org/
 
-MEAN stack <br>
-http://meanjs.org/generator.html
+jwt-simple
+https://www.npmjs.com/package/jwt-simple
 
-Angular JS <br>
-https://angularjs.org/
+JWTs
+https://jwt.io/introduction/
