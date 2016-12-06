@@ -20,10 +20,15 @@ create a node app that inserts data into the MonogoDB database and verify it usi
 <hr>
 ### Learning Resources
 
+MonogoDB setup and exercise <br>
+https://github.com/Ruegen/mongodb-setup
 
 Easy Node authentication <br>
 https://scotch.io/tutorials/easy-node-authentication-setup-and-local <br>
 https://scotch.io/tutorials/upgrading-our-easy-node-authentication-series-to-expressjs-4-0
+
+MonogoDB Documentation <br>
+https://docs.mongodb.com/
 
 Mongoose <br>
 http://mongoosejs.com/docs/api.html
